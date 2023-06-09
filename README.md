@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a tech-loving coder with a passion for building things.  I'm fueled by my love for technology and driven to create innovative solutions.
 <!--
 **Saad-1719/Saad-1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
