@@ -87,5 +87,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/saad-1719/saad-1719/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/saad-1719/saad-1719/blob/output/snake.svg)
 
 ###
