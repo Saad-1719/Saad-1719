@@ -6,15 +6,15 @@
 
 ###
 
-<p align="left">💻 Frontend Engineer passionate about building modern, user-friendly web applications.</p>
+<p align="left">💻 Full Stack Engineer passionate about building modern, user-friendly web applications.</p>
 
 ###
 
-<p align="left">🚀 My expertise lies in React.js and Next.js, where I focus on creating high-performance and scalable interfaces</p>
+<p align="left">🚀 My expertise lies in React.js, Next.js and FASTAPI, where I focus on creating high-performance and scalable interfaces</p>
 
 ###
 
-<p align="left">🛠️ Currently, I am expanding my skill set by learning backend development with Node.js and Express.js, aiming to become a well-rounded full-stack developer.</p>
+<p align="left">🛠️ Currently, I am expanding my skill set by learning AI/ML concepts, aiming to become a well-rounded full-stack engineer.</p>
 
 ###
 
@@ -58,6 +58,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -70,7 +72,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
 </div>
 
 ###
