@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Engineer passionate about building modern, user-friendly web applications.</p>
+<p align="left">💻 An Engineer passionate about building modern, user-friendly web applications.</p>
 
 ###
 
