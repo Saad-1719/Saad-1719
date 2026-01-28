@@ -1,90 +1,68 @@
-<h1 align="left">👋 Hey! What's up?</h1>
+<h1 align="left">👋 Hey, I’m Saad!</h1>
 
 ###
 
-<h2 align="left">I am Saad 😊</h2>
+<h2 align="left">Full-Stack Developer | SaaS & AI-Powered Web Apps</h2>
 
 ###
 
-<p align="left">💻 An Engineer passionate about building modern, user-friendly web applications.</p>
+<p align="left">
+I help startups and teams turn ideas into <strong>production-ready web applications</strong> from scalable backends to responsive frontends often with <strong>AI-assisted features</strong> that add real value. My focus is on building clean, maintainable systems that solve real business problems.
+</p>
 
 ###
 
-<p align="left">🚀 My expertise lies in React.js, Next.js and FASTAPI, where I focus on creating high-performance and scalable interfaces</p>
+<h1 align="left">💻 What I Build</h1>
+
+<ul>
+  <li>SaaS MVPs and admin dashboards</li>
+  <li>Custom CMS platforms</li>
+  <li>AI-assisted features for analytics and engagement</li>
+  <li>Robust backend APIs and scalable database architectures</li>
+</ul>
 
 ###
 
-<p align="left">🛠️ Currently, I am expanding my skill set by learning AI/ML concepts, aiming to become a well-rounded full-stack engineer.</p>
+<h1 align="left">🛠️ Tech Stack</h1>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,postgres,supabase,react,nextjs,tailwind,vercel,fastapi,nestjs" height="40" />
+</div>
 
 ###
 
-<h1 align="left">🌐 Socials</h1>
+<h1 align="left">📂 Projects</h1>
+
+<ul>
+  <li><strong>FeelLog:</strong> AI-powered journaling app with sentiment analysis (React, FastAPI, Gemini API)</li>
+  <li><strong>Evoke CMS:</strong> Full-stack blogging platform with Next.js & PostgreSQL</li>
+  <li><strong>ClientFlow (MVP):</strong> SaaS CRM with admin dashboard and AI-assisted summaries (Next.js, NestJS, PostgreSQL)</li>
+</ul>
 
 ###
+
+<h1 align="left">🌐 Connect with Me</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/saaadi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="chsaad1171@gmail.com" target="_blank">
+  <a href="mailto:chsaad1171@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="left">💻 Tech Stack</h1>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
 <h1 align="left">📊 GitHub Stats</h1>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saad-1719&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad-1719&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad-1719&theme=vue-dark&hide_border=true" height="150" alt="streak graph"  /> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=saad-1719&theme=vue-dark&card_width=450" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-1719&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/saad-1719/saad-1719/output/snake.svg" alt="Snake animation" />
-
-###
