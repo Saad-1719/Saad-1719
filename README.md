@@ -59,7 +59,6 @@ I help startups and teams turn ideas into <strong>production-ready web applicati
 <div align="center" display="flex">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saad-1719&theme=gotham" alt="languages graph" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saad-1719&theme=github-dark" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saad-1719&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
