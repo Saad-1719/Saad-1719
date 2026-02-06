@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Full-Stack Developer | SaaS & AI-Powered Web Apps</h2>
+<h2 align="left">Software Engineer | SaaS & AI-Powered Web Apps</h2>
 
 ###
 
